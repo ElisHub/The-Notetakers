@@ -59,7 +59,7 @@ This project is a functional prototype that demonstrates how an **existing AI se
 | Database | SQLite (via `better-sqlite3`) |
 | Styling | Tailwind CSS |
 | Authentication | JWT + bcrypt (httpOnly cookies) |
-| AI Service | OpenAI API (`gpt-4o-mini`) |
+| AI Service | Gemini  |
 
 ---
 
